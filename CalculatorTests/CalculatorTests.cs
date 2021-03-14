@@ -14,7 +14,7 @@ namespace Calculator.Tests
         {
             Calculator calculator = new Calculator();
             double sum = calculator.Sum(3, 5);
-            Assert.AreEqual<double>(8, sum);
+            Assert.AreEqual<double>(0, sum);
         }
     }
 }
