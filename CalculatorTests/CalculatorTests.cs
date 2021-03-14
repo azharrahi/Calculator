@@ -9,12 +9,14 @@ namespace Calculator.Tests
     [TestClass()]
     public class CalculatorTests
     {
+        [DataTestMethod]
+        [DataRow(3,4, 7)]
         [TestMethod()]
-        public void SumTest()
+        public void SumTest(int x, int y, int expected)
         {
             Calculator calculator = new Calculator();
-            double sum = calculator.Sum(3, 5);
-            Assert.AreEqual<double>(0, sum);
+            double sum = calculator.Sum(x, y);
+            Assert.AreEqual<double>(expected, sum);
         }
     }
 }

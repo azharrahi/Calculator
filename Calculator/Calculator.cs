@@ -8,7 +8,7 @@ namespace Calculator
     {
         public double Sum(double x, double y)
         {
-            return 1 - 1;
+            return x + y;
         }
     }
 }
