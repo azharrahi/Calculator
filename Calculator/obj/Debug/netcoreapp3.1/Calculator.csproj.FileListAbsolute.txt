@@ -1,0 +1,9 @@
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Practice\ASPNetCoreCITest\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
