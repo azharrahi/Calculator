@@ -10,7 +10,8 @@ namespace Calculator.Tests
     public class CalculatorTests
     {
         [DataTestMethod]
-        [DataRow(3,4, 6)]
+        [DataRow(3,4, 7)]
+        [DataRow(5, 14, 17)]
         [TestMethod()]
         public void SumTest(int x, int y, int expected)
         {
