@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "62gWyOm3N1bXlkzcFTvghTGbGMRXhx+1iUPObCL4AAU+ql66ekNk0SzWukFr0FGsm6hHA/a1ktKz2i1HwJtwVA==",
+  "dgSpecHash": "w9FZ8ULz/2w9x11RXpHW+7tC7BoiyGq8rTVGQ5PNpvBKYpxLnzK5VQK1Op6eDlGKQ6EL3k5U1g39o6VfkyRF4A==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

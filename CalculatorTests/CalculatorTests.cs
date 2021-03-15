@@ -20,5 +20,17 @@ namespace Calculator.Tests
             double sum = calculator.Sum(x, y);
             Assert.AreEqual<double>(expected, sum);
         }
+
+        [DataTestMethod]
+        [DataRow(3, 4, -1)]
+        [DataRow(15, 14, 1)]
+        [DataRow(20, 15, 5)]
+        [TestMethod()]
+        public void SubtractTest(int x, int y, int expected)
+        {
+            Calculator calculator = new Calculator();
+            double sum = calculator.Sum(x, y);
+            Assert.AreEqual<double>(expected, sum);
+        }
     }
 }

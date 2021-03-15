@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\ASPNetCoreCITest\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {}
+    "D:\\CalculatorTest\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\ASPNetCoreCITest\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {
+    "D:\\CalculatorTest\\Calculator\\CalculatorTests\\CalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+        "projectUniqueName": "D:\\CalculatorTest\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
         "projectName": "CalculatorTests",
-        "projectPath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
-        "packagesPath": "C:\\Users\\azhar\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\CalculatorTests\\obj\\",
+        "projectPath": "D:\\CalculatorTest\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\QAMMAR\\.nuget\\packages\\",
+        "outputPath": "D:\\CalculatorTest\\Calculator\\CalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\azhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\QAMMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -33,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj": {
-                "projectPath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj"
+              "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj": {
+                "projectPath": "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj"
               }
             }
           }
@@ -81,27 +80,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj": {
+    "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\azhar\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\ASPNetCoreCITest\\Calculator\\Calculator\\obj\\",
+        "projectPath": "D:\\CalculatorTest\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\QAMMAR\\.nuget\\packages\\",
+        "outputPath": "D:\\CalculatorTest\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\azhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\QAMMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -140,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
